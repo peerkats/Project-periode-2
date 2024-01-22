@@ -1,0 +1,14 @@
+body {
+    background-color: #5b756d;
+}
+
+button {
+    background-color: #dbff4a;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    position: relative;
+    
+}
